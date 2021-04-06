@@ -35,3 +35,4 @@ README helps you discover, organize and read more content you care about anywher
 
 *   **Fast:** Never leave your keyboard - single-shot commands and keyboard shortcuts let you do more in less time.
 
+![](/images/superb-sunflower.png)
