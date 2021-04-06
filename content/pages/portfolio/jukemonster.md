@@ -44,7 +44,4 @@ The frontend is built as a progressive web application (PWA) using React with ex
 
 ![](/images/Screenshot%202021-04-06%20at%204.15.19%20PM.png)
 
-
-
-
-
+![](/images/melodic-neptune.jpeg)
