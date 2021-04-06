@@ -31,7 +31,7 @@ sections:
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         actions:
-          - url: '#'
+          - url: 'mailto:rlrh1996@gmail.com'
             style: link
             icon: dribbble
             new_window: false
