@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: project
 image: images/Screenshot 2021-04-06 at 4.36.29 PM.png
+thumb_image: images/parallel-paprika.png
 ---
 ## Lorem ipsum
 
