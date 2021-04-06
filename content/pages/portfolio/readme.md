@@ -2,7 +2,7 @@
 title: README
 subtitle: 'Team lead, developer | 2019'
 date: '2019-04-15'
-thumb_image_alt: README user interface
+thumb_image_alt: README
 image_alt: README user interface
 seo:
   title: ''
