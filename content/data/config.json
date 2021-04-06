@@ -20,7 +20,7 @@
             {
                 "label": "About",
                 "url": "/about/",
-                "style": "link",
+                "style": "link"
             },
             {
                 "label": "Contact",
