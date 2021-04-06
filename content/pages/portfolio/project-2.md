@@ -34,7 +34,7 @@ seo:
 layout: project
 title: Jukemonster
 ---
-### [Live demo](https://www.juke.monster/)
+#### [Live demo](https://www.juke.monster/)
 
 > Jukemonster is a social jukebox for Spotify where party guests can add and vote songs in real time.
 
