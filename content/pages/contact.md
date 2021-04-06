@@ -36,7 +36,7 @@ sections:
             type: action
           - label: GitHub
             url: 'https://github.com/rlrh'
-            style: link
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
