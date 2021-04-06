@@ -34,7 +34,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-          - label: lorem-ipsum
+          - label: GitHub
             url: '#'
             style: link
             icon: dribbble
