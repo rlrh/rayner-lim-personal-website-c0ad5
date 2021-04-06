@@ -21,8 +21,6 @@
                 "label": "About",
                 "url": "/about/",
                 "style": "link",
-
-                "type": "link"
             },
             {
                 "label": "Contact",
