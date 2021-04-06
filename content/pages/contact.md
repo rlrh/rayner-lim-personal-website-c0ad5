@@ -1,5 +1,5 @@
 ---
-title: Get in touch
+title: Get in Touch
 hide_title: false
 sections:
   - section_id: links
