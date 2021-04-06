@@ -24,7 +24,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Add me on LinkedIn
+      - title: Add me
         image_alt: lorem-ipsum
         actions:
           - label: LinkedIn
