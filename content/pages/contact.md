@@ -62,7 +62,7 @@ sections:
           - label: lorem-ipsum
             url: 'https://github.com/rlrh'
             style: icon
-            icon: dribbble
+            icon: github
             new_window: false
             no_follow: false
             type: action
