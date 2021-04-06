@@ -38,6 +38,13 @@ sections:
             no_follow: false
             type: action
             label: Email me
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
   - section_id: contact-form
