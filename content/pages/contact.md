@@ -17,7 +17,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: lorem-ipsum
+      - title: Contact me
         image_alt: lorem-ipsum
         actions:
           - url: 'mailto:rlrh1996@gmail.com'
