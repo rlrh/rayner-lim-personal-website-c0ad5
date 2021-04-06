@@ -37,6 +37,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: Email me
         type: grid_item
     type: section_grid
   - section_id: contact-form
