@@ -49,7 +49,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: LinkedIn
-            url: '#'
+            url: 'https://www.linkedin.com/in/raynerlimrh/'
             style: link
             icon: dribbble
             new_window: false
