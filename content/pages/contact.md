@@ -6,17 +6,6 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: Add me on LinkedIn
-        image_alt: lorem-ipsum
-        actions:
-          - label: LinkedIn
-            url: 'https://www.linkedin.com/in/raynerlimrh/'
-            style: icon
-            icon: linkedin
-            new_window: true
-            no_follow: false
-            type: action
-        type: grid_item
       - title: Contact me
         image_alt: lorem-ipsum
         actions:
@@ -31,6 +20,17 @@ sections:
             url: 'https://t.me/raynerl'
             style: link
             icon: dribbble
+            new_window: true
+            no_follow: false
+            type: action
+        type: grid_item
+      - title: Add me on LinkedIn
+        image_alt: lorem-ipsum
+        actions:
+          - label: LinkedIn
+            url: 'https://www.linkedin.com/in/raynerlimrh/'
+            style: icon
+            icon: linkedin
             new_window: true
             no_follow: false
             type: action
