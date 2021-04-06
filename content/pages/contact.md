@@ -42,17 +42,6 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Follow me on GitHub
-        image_alt: lorem-ipsum
-        actions:
-          - label: lorem-ipsum
-            url: 'https://github.com/rlrh'
-            style: icon
-            icon: github
-            new_window: true
-            no_follow: false
-            type: action
-        type: grid_item
     type: section_grid
   - section_id: contact-form
     type: section_form
