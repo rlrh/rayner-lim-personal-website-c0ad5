@@ -15,7 +15,7 @@
             {
                 "label": "Projects",
                 "url": "/portfolio/",
-                "style": "link"
+                "style": "button"
             },
             {
                 "label": "About",
