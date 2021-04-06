@@ -16,9 +16,7 @@ subtitle: Developer  |  Personal project  |  2018
 ---
 #### [Live demo](http://rails-react-todolist.herokuapp.com/)
 
-
-
-A simple to-do list web app built with Ruby on Rails, React and Bootstrap:
+> A simple to-do list web app built with Ruby on Rails, React and Bootstrap
 
 *   create, read, update, delete (CRUD)
 
