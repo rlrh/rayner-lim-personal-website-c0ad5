@@ -42,6 +42,8 @@ I was the lead frontend designer and developer in a team of 4 engineers (2 backe
 
 The frontend is built as a progressive web application (PWA) using React with extensive use of Hooks and Ionic Framework for responsive design, while the backend is built with Django and Django Channels for WebSockets real time communication.
 
+![](/images/Screenshot%202021-04-06%20at%204.15.19%20PM.png)
+
 ![](/images/photo6084628319854242110.jpg)
 
 ![](/images/photo6084449846783224029.jpg)
