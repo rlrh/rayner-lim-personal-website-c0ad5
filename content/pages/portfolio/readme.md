@@ -13,9 +13,10 @@ seo:
 layout: project
 image: images/Ui.png
 ---
-## Lorem ipsum
+### [GitHub](https://github.com/CS2103-AY1819S2-W10-1/main)
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> Offline-first integrated bookmark manager and feed aggregator JavaFX desktop application for subscribing to web feeds and saving web pages to read later.
 
-- Lorem ipsum
-- dolor sit amet
+This was a CS2103T Software Engineering group project, and I was the team lead and the developer for the reader view feature as well as overall UI/UX designer.
+
+As the team lead I was mainly responsible for idea generation, product definition, project planning and documentation, and as a developer I also contributed to software architecture and design, code review, and third-party dependency integration.
