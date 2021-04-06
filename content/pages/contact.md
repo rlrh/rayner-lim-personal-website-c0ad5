@@ -17,17 +17,6 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: Follow me on GitHub
-        image_alt: lorem-ipsum
-        actions:
-          - label: lorem-ipsum
-            url: 'https://github.com/rlrh'
-            style: icon
-            icon: github
-            new_window: true
-            no_follow: false
-            type: action
-        type: grid_item
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         actions:
@@ -42,6 +31,17 @@ sections:
             url: 'https://t.me/raynerl'
             style: link
             icon: dribbble
+            new_window: true
+            no_follow: false
+            type: action
+        type: grid_item
+      - title: Follow me on GitHub
+        image_alt: lorem-ipsum
+        actions:
+          - label: lorem-ipsum
+            url: 'https://github.com/rlrh'
+            style: icon
+            icon: github
             new_window: true
             no_follow: false
             type: action
