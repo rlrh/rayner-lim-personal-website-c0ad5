@@ -4,7 +4,7 @@ subtitle: 'UI design, frontend development  |  2019'
 date: '2019-05-10'
 thumb_image: images/Screenshot 2021-03-31 at 11.00.28 AM.png
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: images/elite-amaranth.png
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
