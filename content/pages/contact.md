@@ -67,16 +67,6 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: two
-    testimonials:
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: lorem-ipsum
-        type: testimonial
-    type: section_testimonials
 seo:
   title: Contact
   description: This is the contact page
