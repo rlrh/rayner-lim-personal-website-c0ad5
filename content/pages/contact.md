@@ -37,7 +37,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-            label: Email me
+            label: Email
           - label: Telegram
             url: 'https://t.me/raynerl'
             style: link
