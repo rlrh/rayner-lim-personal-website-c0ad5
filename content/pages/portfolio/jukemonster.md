@@ -31,7 +31,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
-thumb_image: images/photo6084456482507696526.jpg
+thumb_image: images/responsive.png
 image: images/ultra-whale.jpg
 ---
 ### [Live demo](https://www.juke.monster/)
