@@ -12,9 +12,10 @@ seo:
 layout: project
 thumb_image: images/smartmockups_kn6ablmc.jpeg
 ---
-## Lorem ipsum
+A simple to-do list web app built with Ruby on Rails, React and Bootstrap:
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   create, read, update, delete (CRUD)
 
-- Lorem ipsum
-- dolor sit amet
+*   completed, description, tags and due date fields
+
+*   search and filter by completed state, tags and due date range
