@@ -22,7 +22,7 @@ Working as a frontend developer in a team of 3 engineers and 1 designer under th
 
 Built as a responsive web app with an Express/Node backend API and React/Material-UI frontend with extensive use of TypeScript.
 
-![](/images/smartmockups_kn5t6rat.png)
+![](/images/smartmockups_kn5u9ca9.jpeg)
 
 ![](/images/Screenshot%202021-04-06%20at%204.57.25%20PM.png)
 
