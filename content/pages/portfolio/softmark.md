@@ -14,9 +14,12 @@ layout: project
 image: images/Screenshot 2021-04-06 at 4.36.29 PM.png
 thumb_image: images/parallel-paprika.png
 ---
-## Lorem ipsum
+### [Live website](https://www.softmark.org/)
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> Electronic exam marking software, successfully deployed in NUS to mark CS1010S exams with hundreds of students and multiple markers, as well as CS2040S, CS3203, CS4218 exams.
 
-- Lorem ipsum
-- dolor sit amet
+
+Working as a frontend developer in a team of 3 engineers and 1 designer under the direction of Prof. Ben Leong, I was mainly responsible for the core viewing, marking and annotation functionality built with React Konva, as well as working with the UX/UI designer to translate mockups into React components.
+
+Built as a responsive web app with a Express/Node backend API and React/Material-UI frontend with extensive use of TypeScript.
+
