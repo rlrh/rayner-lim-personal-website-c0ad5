@@ -40,7 +40,7 @@ sections:
           can be contacted.
     submit_label: Send Message
   - title: Find me
-    section_id: lorem-ipsum
+    section_id: links
     col_number: two
     is_numbered: false
     grid_items:
