@@ -14,7 +14,7 @@ layout: project
 image: images/Ui.png
 thumb_image: images/smartmockups_kn5v8eek.jpeg
 ---
-### [GitHub](https://github.com/CS2103-AY1819S2-W10-1/main)
+#### [GitHub](https://github.com/CS2103-AY1819S2-W10-1/main)
 
 > Offline-first integrated bookmark manager and feed aggregator JavaFX desktop application for subscribing to web feeds and saving web pages to read later.
 
