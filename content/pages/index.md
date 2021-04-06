@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Rayner Lim.'
+    title: 'Hi, my name is Rayner Lim.'
     content: >
       I'm an aspiring software engineer currently studying computer science at
       the National University of Singapore. I design and code, and am passionate
