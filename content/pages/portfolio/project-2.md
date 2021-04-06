@@ -2,7 +2,7 @@
 subtitle: 'Spotify social jukebox | 2019 | [Live demo](https://www.juke.monster/)'
 date: '2019-04-30'
 thumb_image: images/photo6084456482507696526.jpg
-thumb_image_alt: An orange on a blue background
+thumb_image_alt: Jukemonster main screen
 image: images/ultra-whale.jpg
 image_alt: An orange on a blue background
 seo:
