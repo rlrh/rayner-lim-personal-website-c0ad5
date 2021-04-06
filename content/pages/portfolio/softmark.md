@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: project
+image: images/Screenshot 2021-04-06 at 4.36.29 PM.png
 ---
 ## Lorem ipsum
 
