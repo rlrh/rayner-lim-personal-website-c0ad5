@@ -1,6 +1,6 @@
 ---
 title: My Projects
-layout_style: mosaic
+layout_style: tiles
 seo:
   title: Portfolio
   description: This is the portfolio page
