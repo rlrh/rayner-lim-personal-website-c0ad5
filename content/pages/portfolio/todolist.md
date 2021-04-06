@@ -12,7 +12,7 @@ seo:
 layout: project
 thumb_image: images/smartmockups_kn6ablmc.jpeg
 image: images/Screenshot 2021-04-07 at 1.13.17 AM.png
-subtitle: Developer | 2018
+subtitle: Developer | Personal project | 2018
 ---
 A simple to-do list web app built with Ruby on Rails, React and Bootstrap:
 
