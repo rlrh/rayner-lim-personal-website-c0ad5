@@ -3,7 +3,7 @@ title: Get in Touch
 hide_title: false
 sections:
   - section_id: links
-    col_number: three
+    col_number: two
     is_numbered: false
     grid_items:
       - title: Contact me
