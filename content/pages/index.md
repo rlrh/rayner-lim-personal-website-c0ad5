@@ -10,7 +10,7 @@ sections:
       the National University of Singapore. I design and code, and am passionate
       about building great products. I love technology, design and travel.
     actions:
-      - label: Let's talk
+      - label: Get in touch
         url: /contact
         style: button
   - section_id: latest-projects
