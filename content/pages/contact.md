@@ -31,8 +31,7 @@ sections:
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: link
             icon: dribbble
             new_window: false
