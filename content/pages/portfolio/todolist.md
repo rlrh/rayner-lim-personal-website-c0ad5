@@ -2,7 +2,7 @@
 title: Todolist
 date: '2018-12-31'
 thumb_image_alt: Todolist
-image_alt: lorem-ipsum
+image_alt: Todolist user interface
 seo:
   title: ''
   description: ''
