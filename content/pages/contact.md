@@ -67,6 +67,12 @@ sections:
             type: action
         type: grid_item
     type: section_grid
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    testimonials: []
+    type: section_testimonials
 seo:
   title: Contact
   description: This is the contact page
