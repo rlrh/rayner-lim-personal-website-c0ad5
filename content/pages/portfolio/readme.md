@@ -1,7 +1,7 @@
 ---
 title: README
 subtitle: 'Developer, team lead | 2019'
-date: '2021-04-06'
+date: '2019-01-06'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
