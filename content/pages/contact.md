@@ -32,7 +32,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - url: 'mailto:rlrh1996@gmail.com'
-            style: button
+            style: link
             icon: dribbble
             new_window: false
             no_follow: false
