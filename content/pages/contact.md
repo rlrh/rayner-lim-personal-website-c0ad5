@@ -70,7 +70,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    col_number: three
+    col_number: two
     testimonials: []
     type: section_testimonials
 seo:
