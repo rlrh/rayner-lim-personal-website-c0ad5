@@ -39,8 +39,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
-  - title: Find me
-    section_id: links
+  - section_id: links
     col_number: two
     is_numbered: false
     grid_items:
