@@ -60,7 +60,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: GitHub
+      - title: See my GitHub
         image_alt: lorem-ipsum
         actions:
           - label: lorem-ipsum
