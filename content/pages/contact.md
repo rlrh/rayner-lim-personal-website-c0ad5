@@ -39,7 +39,7 @@ sections:
             type: action
             label: Email me
           - label: Telegram
-            url: '#'
+            url: 'https://t.me/raynerl'
             style: link
             icon: dribbble
             new_window: false
