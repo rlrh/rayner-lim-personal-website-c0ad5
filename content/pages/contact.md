@@ -34,7 +34,7 @@ sections:
           - url: 'mailto:rlrh1996@gmail.com'
             style: link
             icon: dribbble
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
             label: Email me
