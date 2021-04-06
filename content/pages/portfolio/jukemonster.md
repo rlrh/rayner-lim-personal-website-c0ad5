@@ -2,7 +2,7 @@
 title: Jukemonster
 subtitle: "UX designer, frontend developer\_ |\_ 2019"
 date: '2019-04-30'
-thumb_image_alt: Jukemonster main screen
+thumb_image_alt: Jukemonster
 image_alt: Jukemonster main screen
 seo:
   title: Project Title 2
