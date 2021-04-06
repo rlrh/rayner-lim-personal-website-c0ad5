@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: project
 thumb_image: images/responsive.png
-image: images/ultra-whale.jpg
+image: images/pleasant-sycamore.png
 ---
 ### [Live demo](https://www.juke.monster/)
 
