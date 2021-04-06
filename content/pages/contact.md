@@ -38,7 +38,7 @@ sections:
             url: 'https://github.com/rlrh'
             style: icon
             icon: github
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
         type: grid_item
