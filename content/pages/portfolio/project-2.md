@@ -1,5 +1,5 @@
 ---
-subtitle: Spotify social jukebox 201
+subtitle: "Spotify social jukebox\_ |\_ 2019"
 date: '2019-04-30'
 thumb_image: images/photo6084456482507696526.jpg
 thumb_image_alt: Jukemonster main screen
