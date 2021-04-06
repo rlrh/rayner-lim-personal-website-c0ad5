@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: project
 image: images/Screenshot 2021-04-06 at 4.36.29 PM.png
-thumb_image: images/smartmockups_kn5tnz9j.jpeg
+thumb_image: images/smartmockups_kn5tueio.jpeg
 ---
 ### [Live website](https://www.softmark.org/)
 
