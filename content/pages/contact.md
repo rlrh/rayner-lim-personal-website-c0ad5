@@ -48,7 +48,7 @@ sections:
       - title: Add me on LinkedIn
         image_alt: lorem-ipsum
         actions:
-          - label: lorem-ipsum
+          - label: LinkedIn
             url: '#'
             style: link
             icon: dribbble
