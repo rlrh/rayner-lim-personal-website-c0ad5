@@ -16,7 +16,7 @@ thumb_image: images/smartmockups_kn5tueio.jpeg
 ---
 ### [Live website](https://www.softmark.org/)
 
-> Electronic exam marking software successfully deployed in NUS to mark CS1010S exams with hundreds of students and multiple markers, as well as CS2040S, CS3203, CS4218 exams.
+> Exam marking software successfully deployed in NUS to mark CS1010S exams with hundreds of students and multiple markers, as well as CS2040S, CS3203, CS4218 exams.
 
 Working as a frontend developer in a team of 3 engineers and 1 designer under the direction of Prof. Ben Leong, I was mainly responsible for the core viewing, marking and annotation functionality built with React Konva, as well as working with the UX/UI designer to translate mockups into React components.
 
