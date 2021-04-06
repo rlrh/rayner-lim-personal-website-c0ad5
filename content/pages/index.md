@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Rayner Lim.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I'm an aspiring software engineer currently studying computer science at
+      the National University of Singapore. I design and code, and am passionate
+      about building great products. I love technology, design and travel.
     actions:
       - label: Let's talk
         url: /contact
