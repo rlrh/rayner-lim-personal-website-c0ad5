@@ -50,7 +50,7 @@ sections:
         actions:
           - label: LinkedIn
             url: 'https://www.linkedin.com/in/raynerlimrh/'
-            style: link
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
