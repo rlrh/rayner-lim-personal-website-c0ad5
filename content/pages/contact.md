@@ -26,7 +26,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-            label: Email
+            label: Email rlrh1996@gmail.com
           - label: Telegram
             url: 'https://t.me/raynerl'
             style: link
