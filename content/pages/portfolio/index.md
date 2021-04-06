@@ -1,5 +1,5 @@
 ---
-title: My Work
+title: My Projects
 layout_style: mosaic
 seo:
   title: Portfolio
