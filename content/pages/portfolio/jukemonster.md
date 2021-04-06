@@ -31,7 +31,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 layout: project
-thumb_image: images/responsive.png
+thumb_image: images/smartmockups_kn5thbmq.jpeg
 image: images/pleasant-sycamore.png
 ---
 ### [Live demo](https://www.juke.monster/)
