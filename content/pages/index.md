@@ -8,7 +8,8 @@ sections:
     content: >
       I'm an aspiring software engineer currently studying computer science at
       the National University of Singapore. I design and code, and am passionate
-      about building great products. I love technology, design and travel.
+      about building great products and user experiences. I love technology,
+      design and travel.
     actions:
       - label: Get in touch
         url: /contact
