@@ -3,7 +3,7 @@ title: Contact
 hide_title: false
 sections:
   - section_id: links
-    col_number: two
+    col_number: three
     is_numbered: false
     grid_items:
       - title: Add me on LinkedIn
