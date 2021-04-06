@@ -60,7 +60,7 @@ sections:
           - dolor sit amet
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: 'https://github.com/rlrh'
             style: link
             icon: dribbble
             new_window: false
