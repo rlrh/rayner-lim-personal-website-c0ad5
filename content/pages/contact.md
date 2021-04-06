@@ -41,7 +41,6 @@ sections:
     submit_label: Send Message
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: two
     is_numbered: false
     grid_items:
