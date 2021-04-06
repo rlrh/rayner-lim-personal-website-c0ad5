@@ -21,7 +21,7 @@ This was a CS2103T Software Engineering group project, and I was the team lead a
 
 As the team lead I was mainly responsible for idea generation, product definition, project planning and documentation, and as a developer I also contributed to software architecture and design, code review, and third-party dependency integration.
 
-##### Marketing
+#### Marketing
 
 README helps you discover, organize and read more content you care about anywhere you go.
 
