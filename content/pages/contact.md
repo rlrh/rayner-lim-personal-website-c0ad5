@@ -38,7 +38,7 @@ sections:
             no_follow: false
             type: action
             label: Email me
-          - label: lorem-ipsum
+          - label: Telegram me
             url: '#'
             style: link
             icon: dribbble
