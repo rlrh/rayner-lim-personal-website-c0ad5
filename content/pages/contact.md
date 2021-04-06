@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: links
     col_number: three
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Add me on LinkedIn
         image_alt: lorem-ipsum
