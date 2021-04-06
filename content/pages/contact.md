@@ -49,10 +49,9 @@ sections:
     type: section_grid
   - section_id: contact-form
     type: section_form
-    content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [rlrh1996@gmail.com](mailto:rlrh1996@gmail.com).
+    content: >
+      Hi there! Thank you so much for getting in touch. Please fill the contact
+      form below or send me an email at <rlrh1996@gmail.com>.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
