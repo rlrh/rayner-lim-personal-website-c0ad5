@@ -10,7 +10,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - url: 'mailto:rlrh1996@gmail.com'
-            style: link
+            style: button
             icon: dribbble
             new_window: true
             no_follow: false
