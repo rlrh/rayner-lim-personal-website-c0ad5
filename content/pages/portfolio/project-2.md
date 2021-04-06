@@ -1,5 +1,5 @@
 ---
-subtitle: 'Spotify social jukebox | https://www.juke.monster/ |'
+subtitle: 'Spotify social jukebox | 2019 | https://www.juke.monster/ |'
 date: '2019-04-30'
 thumb_image: images/photo6084456482507696526.jpg
 thumb_image_alt: An orange on a blue background
