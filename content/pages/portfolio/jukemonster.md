@@ -40,8 +40,10 @@ image: images/pleasant-sycamore.png
 
 I was the lead frontend designer and developer in a team of 4 engineers (2 backend and 2 frontend), and this was our mobile cloud application project for the module CS3216 Software Product Engineering for Digital Markets.
 
-The frontend is built as a progressive web application (PWA) using React with extensive use of Hooks and Ionic Framework for responsive design, while the backend is built with Django and Django Channels for WebSockets real time communication.
+The frontend is built as a progressive web application (PWA) using React with extensive use of Hooks and Ionic Framework for responsive design, while the backend is built with Django and Django Channels for WebSockets real-time communication.
 
 ![](/images/Screenshot%202021-04-06%20at%204.15.19%20PM.png)
 
 ![](/images/melodic-neptune.jpeg)
+
+![](/images/smartmockups_kn5u8bxt.jpeg)
