@@ -1,6 +1,6 @@
 ---
 title: Jukemonster
-subtitle: "F\_ |\_ 2019"
+subtitle: "UX design, frontend development\_ |\_ 2019"
 date: '2019-04-30'
 thumb_image_alt: Jukemonster main screen
 image_alt: Jukemonster main screen
