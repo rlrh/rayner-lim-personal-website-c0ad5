@@ -34,9 +34,9 @@ seo:
 layout: project
 title: Jukemonster
 ---
-> Jukemonster is a social jukebox for Spotify where party guests can add and vote songs in real time.
-
 [Live demo](https://www.juke.monster/)
+
+> Jukemonster is a social jukebox for Spotify where party guests can add and vote songs in real time.
 
 I was the lead frontend designer and developer in a team of 4 engineers (2 backend and 2 frontend), and this was our mobile cloud application project for the module CS3216 Software Product Engineering for Digital Markets.
 
