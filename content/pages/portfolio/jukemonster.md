@@ -34,7 +34,7 @@ layout: project
 thumb_image: images/smartmockups_kn5u0eog.jpeg
 image: images/pleasant-sycamore.png
 ---
-### [Live demo](https://www.juke.monster/)
+#### [Live demo](https://www.juke.monster/)
 
 > Jukemonster is a social jukebox for Spotify where party guests can add and vote songs in real time.
 
