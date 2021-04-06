@@ -3,7 +3,7 @@ title: README
 subtitle: 'Developer, team lead | 2019'
 date: '2019-04-15'
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: README interface
 seo:
   title: ''
   description: ''
