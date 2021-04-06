@@ -3,7 +3,7 @@ title: Softmark
 subtitle: lorem-ipsum
 date: '2021-04-06'
 thumb_image_alt: Softmark
-image_alt: lorem-ipsum
+image_alt: Softmark
 seo:
   title: ''
   description: ''
