@@ -44,8 +44,7 @@ The frontend is built as a progressive web application (PWA) using React with ex
 
 ![](/images/Screenshot%202021-04-06%20at%204.15.19%20PM.png)
 
-![](/images/photo6084628319854242110.jpg)
 
-![](/images/photo6084449846783224029.jpg)
 
-![](/images/photo6082485564965235175.jpg)
+
+
