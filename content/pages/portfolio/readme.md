@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: project
 image: images/Ui.png
+thumb_image: images/smartmockups_kn5v8eek.jpeg
 ---
 ### [GitHub](https://github.com/CS2103-AY1819S2-W10-1/main)
 
