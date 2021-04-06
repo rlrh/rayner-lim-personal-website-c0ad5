@@ -2,6 +2,33 @@
 title: Contact
 hide_title: false
 sections:
+  - section_id: links
+    col_number: two
+    is_numbered: false
+    grid_items:
+      - title: Add me on LinkedIn
+        image_alt: lorem-ipsum
+        actions:
+          - label: LinkedIn
+            url: 'https://www.linkedin.com/in/raynerlimrh/'
+            style: icon
+            icon: linkedin
+            new_window: true
+            no_follow: false
+            type: action
+        type: grid_item
+      - title: Follow me on GitHub
+        image_alt: lorem-ipsum
+        actions:
+          - label: lorem-ipsum
+            url: 'https://github.com/rlrh'
+            style: icon
+            icon: github
+            new_window: true
+            no_follow: false
+            type: action
+        type: grid_item
+    type: section_grid
   - section_id: contact-form
     type: section_form
     content: >-
@@ -39,33 +66,6 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Send Message
-  - section_id: links
-    col_number: two
-    is_numbered: false
-    grid_items:
-      - title: Add me on LinkedIn
-        image_alt: lorem-ipsum
-        actions:
-          - label: LinkedIn
-            url: 'https://www.linkedin.com/in/raynerlimrh/'
-            style: icon
-            icon: linkedin
-            new_window: true
-            no_follow: false
-            type: action
-        type: grid_item
-      - title: Follow me on GitHub
-        image_alt: lorem-ipsum
-        actions:
-          - label: lorem-ipsum
-            url: 'https://github.com/rlrh'
-            style: icon
-            icon: github
-            new_window: true
-            no_follow: false
-            type: action
-        type: grid_item
-    type: section_grid
 seo:
   title: Contact
   description: This is the contact page
