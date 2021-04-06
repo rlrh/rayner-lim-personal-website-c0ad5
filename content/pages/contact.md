@@ -45,17 +45,6 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: GitHub
-        image_alt: lorem-ipsum
-        actions:
-          - label: lorem-ipsum
-            url: 'https://github.com/rlrh'
-            style: icon
-            icon: github
-            new_window: true
-            no_follow: false
-            type: action
-        type: grid_item
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
@@ -70,6 +59,17 @@ sections:
 
           - dolor sit amet
         actions: []
+        type: grid_item
+      - title: GitHub
+        image_alt: lorem-ipsum
+        actions:
+          - label: lorem-ipsum
+            url: 'https://github.com/rlrh'
+            style: icon
+            icon: github
+            new_window: true
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
 seo:
