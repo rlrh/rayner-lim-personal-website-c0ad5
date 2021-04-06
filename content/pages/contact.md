@@ -45,7 +45,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: lorem-ipsum
+      - title: GitHub
         image_alt: lorem-ipsum
         actions:
           - label: lorem-ipsum
