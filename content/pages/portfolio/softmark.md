@@ -1,6 +1,6 @@
 ---
 title: Softmark
-subtitle: lorem-ipsum
+subtitle: "Frontend development\_ |\_ 2019"
 date: '2021-04-06'
 thumb_image_alt: Softmark
 image_alt: Softmark
