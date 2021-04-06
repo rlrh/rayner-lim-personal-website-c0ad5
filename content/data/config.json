@@ -60,7 +60,7 @@
             },
             {
                 "label": "Telegram @raynerl",
-                "url": "#",
+                "url": "https://t.me/raynerl",
                 "style": "icon",
                 "icon": "telegram",
                 "new_window": true,
