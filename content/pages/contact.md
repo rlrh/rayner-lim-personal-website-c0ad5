@@ -52,7 +52,7 @@ sections:
             url: 'https://www.linkedin.com/in/raynerlimrh/'
             style: icon
             icon: linkedin
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
         type: grid_item
