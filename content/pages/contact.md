@@ -45,7 +45,7 @@ sections:
     type: section_grid
 seo:
   title: Contact Me | Rayner Lim
-  description: This is the contact page
+  description: This is my contact page.
   extra:
     - name: 'og:type'
       value: website
