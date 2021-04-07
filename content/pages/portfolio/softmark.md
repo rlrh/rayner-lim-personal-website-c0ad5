@@ -25,7 +25,9 @@ layout: project
 image: images/Screenshot 2021-04-06 at 4.36.29 PM.png
 thumb_image: images/smartmockups_kn5tueio.jpeg
 ---
-#### [Live website](https://www.softmark.org/)
+[Live website](https://www.softmark.org/)
+
+*Note: this product has since been further developed without my involvement.*
 
 > Exam marking software successfully deployed in NUS to mark CS1010S exams with hundreds of students and multiple markers, as well as CS2040S, CS3203, CS4218 exams.
 
