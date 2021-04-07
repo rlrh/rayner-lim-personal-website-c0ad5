@@ -8,9 +8,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Portfolio
-      keyName: property
     - name: 'og:description'
       value: This is the portfolio page
       keyName: property
