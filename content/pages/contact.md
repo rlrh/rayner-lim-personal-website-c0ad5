@@ -61,11 +61,12 @@ sections:
 
       I am currently a computer science major at the National University of
       Singapore specialising in software engineering. Previously, I studied
-      product and industrial design at Nanyang Polytechnic.
+      product and industrial design at Nanyang Polytechnic and won a design
+      award for my final-year project.
 
 
       I have side interests in architecture and urban design, and in my free
-      time I like to explore wherever I happen to find myself in. 
+      time I like to explore wherever I happen to find myself in.
     type: section_content
 seo:
   title: Contact Me | Rayner Lim
