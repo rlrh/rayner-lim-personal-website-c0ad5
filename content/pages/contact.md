@@ -49,13 +49,15 @@ sections:
       ## About Me
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ![](https://avatars.githubusercontent.com/u/29230362?s=400\&u=e8af1f23d59a4ac83c69c8e372877fc75e8d5139\&v=4)
 
 
-      *   Lorem ipsum
+      Hi, my name is Rayner Lim.
 
-      *   dolor sit amet
+
+      I'm an aspiring software engineer currently studying computer science at
+      the National University of Singapore. I design and code, and am passionate
+      about building great products and user experiences.
     type: section_content
 seo:
   title: Contact Me | Rayner Lim
