@@ -45,7 +45,9 @@ sections:
     type: section_grid
 seo:
   title: Contact Me | Rayner Lim
-  description: This is my contact page.
+  description: >-
+    This is my contact page. I am an aspiring software engineer passionate about
+    designing and building great products and user experiences.
   extra:
     - name: 'og:type'
       value: website
