@@ -23,8 +23,8 @@ sections:
 seo:
   title: Rayner Lim
   description: >-
-    I design and code, and am passionate about building great products and user
-    experiences.
+    I am an aspiring software engineer passionate about designing and building
+    great products and user experiences.
   extra:
     - name: 'og:type'
       value: website
