@@ -6,7 +6,9 @@ thumb_image_alt: Jukemonster
 image_alt: Jukemonster main screen
 seo:
   title: Jukemonster | Rayner Lim
-  description: This is the project 2 description
+  description: >-
+    Jukemonster is a social jukebox for Spotify where party guests can add and
+    vote songs in real time.
   extra:
     - name: 'og:type'
       value: website
