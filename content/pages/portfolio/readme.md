@@ -10,7 +10,11 @@ seo:
     Offline-first integrated bookmark manager and feed aggregator JavaFX desktop
     application for subscribing to web feeds and saving web pages to read later.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/famous-lavender.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: project
 image: images/Ui.png
