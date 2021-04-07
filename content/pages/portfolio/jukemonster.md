@@ -8,7 +8,7 @@ seo:
   title: Jukemonster | Rayner Lim
   description: >-
     Jukemonster is a social jukebox for Spotify where party guests can add and
-    vote songs in real time.
+    vote songs in real-time.
   extra:
     - name: 'og:type'
       value: website
