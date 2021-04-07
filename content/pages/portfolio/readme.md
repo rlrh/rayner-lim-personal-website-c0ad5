@@ -15,6 +15,10 @@ seo:
       value: /images/panoramic-turtle.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 image: images/Ui.png
