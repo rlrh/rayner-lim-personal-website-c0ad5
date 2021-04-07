@@ -2,28 +2,6 @@
 title: Get in Touch
 hide_title: false
 sections:
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >
-      ![](https://avatars.githubusercontent.com/u/29230362?s=192\&u=e8af1f23d59a4ac83c69c8e372877fc75e8d5139\&v=4)
-
-
-      Hello, my name is Rayner Lim.
-
-
-      I love exploring the intersection between technology and design, and am
-      passionate about building great products and user experiences.
-
-
-      I am currently a computer science major at the National University of
-      Singapore specialising in software engineering. Previously, I studied
-      product and industrial design at Nanyang Polytechnic and won a design
-      award for my final-year project.
-
-
-      I have side interests in architecture and urban design, and in my free
-      time I like to explore wherever I happen to find myself in.
-    type: section_content
   - section_id: links
     col_number: two
     is_numbered: false
@@ -65,6 +43,28 @@ sections:
             type: action
         type: grid_item
     type: section_grid
+  - section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >
+      ![](https://avatars.githubusercontent.com/u/29230362?s=192\&u=e8af1f23d59a4ac83c69c8e372877fc75e8d5139\&v=4)
+
+
+      Hello, my name is Rayner Lim.
+
+
+      I love exploring the intersection between technology and design, and am
+      passionate about building great products and user experiences.
+
+
+      I am currently a computer science major at the National University of
+      Singapore specialising in software engineering. Previously, I studied
+      product and industrial design at Nanyang Polytechnic and won a design
+      award for my final-year project.
+
+
+      I have side interests in architecture and urban design, and in my free
+      time I like to explore wherever I happen to find myself in.
+    type: section_content
 seo:
   title: Contact Me | Rayner Lim
   description: >-
