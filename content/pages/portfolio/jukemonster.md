@@ -15,7 +15,9 @@ seo:
       value: Jukemonster
       keyName: property
     - name: 'og:description'
-      value: This is the project 2 description
+      value: >-
+        Jukemonster is a social jukebox for Spotify where party guests can add
+        and vote songs in real time.
       keyName: property
     - name: 'og:image'
       value: /images/thoughtful-velociraptor.jpeg
