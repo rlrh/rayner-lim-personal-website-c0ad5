@@ -19,7 +19,7 @@ sections:
     title: My Projects
     projects_number: 6
     view_all_label: View All
-    view_all_url: projects
+    view_all_url: portfolio
 seo:
   title: Rayner Lim
   description: >-
@@ -30,10 +30,13 @@ seo:
       value: website
       keyName: property
     - name: 'og:image'
-      value: /images/123085100_1688578507989956_2910178911980431411_n.jpg
+      value: images/exto_preview.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
+    - name: 'twitter:image'
+      value: images/exto_preview.png
+      relativeUrl: true
 layout: advanced
 ---
