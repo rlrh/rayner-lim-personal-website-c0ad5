@@ -21,7 +21,7 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
 seo:
-  title: Stackbit Exto Theme
+  title: Rayner Lim
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
