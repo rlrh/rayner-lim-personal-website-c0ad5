@@ -30,7 +30,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/123085100_1688578507989956_2910178911980431411_n.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
