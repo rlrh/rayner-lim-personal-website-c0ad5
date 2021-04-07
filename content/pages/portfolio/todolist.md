@@ -7,7 +7,11 @@ seo:
   title: Todolist | Rayner Lim
   description: 'A simple to-do list web app built with Ruby on Rails, React and Bootstrap.'
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/diligent-oak.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: project
 thumb_image: images/smartmockups_kn6ablmc.jpeg
