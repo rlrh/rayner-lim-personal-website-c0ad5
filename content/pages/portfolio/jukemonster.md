@@ -16,11 +16,6 @@ seo:
     - name: 'og:title'
       value: Jukemonster | Rayner Lim
       keyName: property
-    - name: 'og:description'
-      value: >-
-        Jukemonster is a social jukebox for Spotify where party guests can add
-        and vote songs in real time.
-      keyName: property
     - name: 'og:image'
       value: /images/thoughtful-velociraptor.jpeg
       keyName: property
