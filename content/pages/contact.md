@@ -52,12 +52,18 @@ sections:
       ![](https://avatars.githubusercontent.com/u/29230362?s=400\&u=e8af1f23d59a4ac83c69c8e372877fc75e8d5139\&v=4)
 
 
-      Hi, my name is Rayner Lim.
+      > Hello, my name is Rayner Lim.
 
+      >
 
-      I'm an aspiring software engineer currently studying computer science at
-      the National University of Singapore. I design and code, and am passionate
-      about building great products and user experiences.
+      > I love exploring the intersection between technology and design, and am
+      passionate about building great products and user experiences.
+
+      >
+
+      > I am currently a computer science major at the National University of
+      Singapore specialising in software engineering. Previously, I studied
+      product and industrial design at Nanyang Polytechnic.
     type: section_content
 seo:
   title: Contact Me | Rayner Lim
