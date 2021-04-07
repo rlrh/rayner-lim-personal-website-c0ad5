@@ -6,7 +6,9 @@ thumb_image_alt: README
 image_alt: README user interface
 seo:
   title: README | Rayner Lim
-  description: ''
+  description: >-
+    Offline-first integrated bookmark manager and feed aggregator JavaFX desktop
+    application for subscribing to web feeds and saving web pages to read later.
   robots: []
   extra: []
   type: stackbit_page_meta
