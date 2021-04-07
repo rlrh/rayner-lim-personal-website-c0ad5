@@ -5,7 +5,7 @@ thumb_image_alt: Todolist
 image_alt: Todolist user interface
 seo:
   title: ''
-  description: ''
+  description: 'A simple to-do list web app built with Ruby on Rails, React and Bootstrap.'
   robots: []
   extra: []
   type: stackbit_page_meta
