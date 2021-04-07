@@ -24,8 +24,7 @@ seo:
   title: Rayner Lim
   description: >-
     I design and code, and am passionate about building great products and user
-    experiences. I'm an aspiring software engineer currently studying computer
-    science at the National University of Singapore.
+    experiences.
   extra:
     - name: 'og:type'
       value: website
