@@ -11,7 +11,11 @@ seo:
     with hundreds of students and multiple markers, as well as CS2040S, CS3203,
     CS4218 exams.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/splendid-aluminum.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: project
 image: images/Screenshot 2021-04-06 at 4.36.29 PM.png
