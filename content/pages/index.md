@@ -35,8 +35,5 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:image'
-      value: images/exto_preview.png
-      relativeUrl: true
 layout: advanced
 ---
