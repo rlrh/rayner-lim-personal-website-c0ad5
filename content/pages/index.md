@@ -19,7 +19,7 @@ sections:
     title: My Projects
     projects_number: 6
     view_all_label: View All
-    view_all_url: projects
+    view_all_url: portfolio
 seo:
   title: Rayner Lim
   description: >-
