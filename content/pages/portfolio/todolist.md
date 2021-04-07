@@ -4,7 +4,7 @@ date: '2018-12-31'
 thumb_image_alt: Todolist
 image_alt: Todolist user interface
 seo:
-  title: ''
+  title: Todolist | Rayner Lim
   description: 'A simple to-do list web app built with Ruby on Rails, React and Bootstrap.'
   robots: []
   extra: []
