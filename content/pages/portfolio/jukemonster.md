@@ -19,8 +19,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:title'
-      value: Project Title 2
     - name: 'twitter:description'
       value: This is the project 2 description
 layout: project
