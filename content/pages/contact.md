@@ -46,9 +46,6 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      ## About Me
-
-
       ![](https://avatars.githubusercontent.com/u/29230362?s=192\&u=e8af1f23d59a4ac83c69c8e372877fc75e8d5139\&v=4)
 
 
