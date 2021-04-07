@@ -22,7 +22,7 @@ sections:
     view_all_url: portfolio
 seo:
   title: Rayner Lim
-  description: The preview of the Exto theme
+  description: ' I design and code, and am passionate about building great products and user experiences.'
   extra:
     - name: 'og:type'
       value: website
