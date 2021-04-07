@@ -19,8 +19,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:description'
-      value: This is the project 2 description
 layout: project
 thumb_image: images/smartmockups_kn6b4bth.jpeg
 image: images/pleasant-sycamore.png
