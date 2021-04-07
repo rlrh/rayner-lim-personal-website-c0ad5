@@ -13,9 +13,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Jukemonster | Rayner Lim
-      keyName: property
     - name: 'og:image'
       value: /images/thoughtful-velociraptor.jpeg
       keyName: property
