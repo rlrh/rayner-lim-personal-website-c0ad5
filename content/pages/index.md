@@ -29,9 +29,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Stackbit Exto Theme
-      keyName: property
     - name: 'og:description'
       value: The preview of the Exto theme
       keyName: property
