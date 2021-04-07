@@ -16,6 +16,10 @@ seo:
       value: /images/splendid-aluminum.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 image: images/Screenshot 2021-04-06 at 4.36.29 PM.png
