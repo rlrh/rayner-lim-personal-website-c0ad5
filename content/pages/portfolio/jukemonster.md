@@ -12,7 +12,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Jukemonster
+      value: Jukemonster | Rayner Lim
       keyName: property
     - name: 'og:description'
       value: >-
