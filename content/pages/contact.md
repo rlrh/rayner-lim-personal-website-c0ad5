@@ -43,8 +43,7 @@ sections:
             type: action
         type: grid_item
     type: section_grid
-  - title: About Me
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
