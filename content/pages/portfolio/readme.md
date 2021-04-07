@@ -12,7 +12,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/famous-lavender.png
+      value: /images/panoramic-turtle.jpeg
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta
