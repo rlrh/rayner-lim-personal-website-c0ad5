@@ -6,7 +6,10 @@ thumb_image_alt: Softmark
 image_alt: Softmark
 seo:
   title: Softmark | Rayner Lim
-  description: ''
+  description: >-
+    Exam marking software successfully deployed in NUS to mark CS1010S exams
+    with hundreds of students and multiple markers, as well as CS2040S, CS3203,
+    CS4218 exams.
   robots: []
   extra: []
   type: stackbit_page_meta
