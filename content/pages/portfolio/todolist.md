@@ -12,6 +12,10 @@ seo:
       value: /images/diligent-oak.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 thumb_image: images/smartmockups_kn6ablmc.jpeg
