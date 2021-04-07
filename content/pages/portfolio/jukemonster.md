@@ -5,7 +5,7 @@ date: '2019-04-30'
 thumb_image_alt: Jukemonster
 image_alt: Jukemonster main screen
 seo:
-  title: Project Title 2
+  title: Jukemonster | Rayner Lim
   description: This is the project 2 description
   extra:
     - name: 'og:type'
