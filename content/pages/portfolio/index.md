@@ -3,7 +3,7 @@ title: My Projects
 layout_style: tiles
 seo:
   title: Projects | Rayner Lim
-  description: This is the portfolio page
+  description: This is my portfolio page.
   extra:
     - name: 'og:type'
       value: website
